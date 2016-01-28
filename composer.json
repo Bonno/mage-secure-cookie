@@ -1,0 +1,9 @@
+{
+    "name": "etailer/securecookie",
+    "description": "This module allows to secure the frontend cookie when running the whole store on https",
+    "license": "proprietary",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": ">=2",
+    }
+}

@@ -1,0 +1,9 @@
+app/code/community/Etailer/SecureCookie/etc/config.xml app/code/community/Etailer/SecureCookie/etc/config.xml
+app/code/community/Etailer/SecureCookie/etc/system.xml app/code/community/Etailer/SecureCookie/etc/system.xml
+app/code/community/Etailer/SecureCookie/Helper/Data.php app/code/community/Etailer/SecureCookie/Helper/Data.php
+README.md app/code/community/Etailer/SecureCookie/README.md
+app/code/community/Etailer/SecureCookie/CHANGELOG.md app/code/community/Etailer/SecureCookie/CHANGELOG.md
+app/code/community/Etailer/SecureCookie/LICENSE.md app/code/community/Etailer/SecureCookie/LICENSE.md
+app/code/community/Etailer/SecureCookie/Model/Cookie.php app/code/community/Etailer/SecureCookie/Model/Cookie.php
+app/code/community/Etailer/SecureCookie/Model/Enterprise/Cookie.php app/code/community/Etailer/SecureCookie/Model/Enterprise/Cookie.php
+app/etc/modules/Etailer_SecureCookie.xml app/etc/modules/Etailer_SecureCookie.xml
