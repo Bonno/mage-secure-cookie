@@ -4,6 +4,6 @@
     "license": "proprietary",
     "type": "magento-module",
     "require": {
-        "magento-hackathon/magento-composer-installer": ">=2",
+        "magento-hackathon/magento-composer-installer": ">=2"
     }
 }
